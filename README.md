@@ -8,6 +8,7 @@ This project helps improve coding skills by building realistic problems.
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,6 +24,11 @@ This project helps improve coding skills by building realistic problems.
 
 ![Mobile design preview for the QR code component coding challenge](./images/my-mobile-version.png)
 <sup>My mobile solution</sup>
+
+### Links
+
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-with-flexbox-a_c9nVJxJ9)
+- Live Site URL: [Live Site](https://rafaelayazawa.github.io/qr-code-component-challenge/)
 
 ## My process
 
